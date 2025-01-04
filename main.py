@@ -1,10 +1,10 @@
-"""This is a program to write TO DO List, user can add, delete, make completed, and view tasks"""
+""" This is a program to write TO DO List, user can add, delete, make completed, and view tasks"""
 import random
-"""functios"""
+""" functions"""
 def main():
     message="""1-add task
     2-mark task as completed
-    3-delet task
+    3-delete task
     4-view tasks
     5-quit"""
     
